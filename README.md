@@ -5,12 +5,12 @@
 <head>
   <title>HTML Practical 1[A] Perform</title>
 </head>
-<h1>HTML Links</h1>
+<h1>Links</h1>
 
 <p><a href="https://www.youtube.com/">Visit youtube.com!</a></p>
 
 
-<h2>HTML Image</h2>
+<h2>Image</h2>
 <img src="C:\Users\Hp\OneDrive\Desktop\pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 table, th, td {
